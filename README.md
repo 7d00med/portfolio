@@ -1,4 +1,4 @@
-![alt text](https://github.com/7d00med/portfolio/blob/master/portfolio-cv-01.png "1")
+![alt text](img/portfolio-cv-01.png "1")
 ![alt text](https://github.com/7d00med/portfolio/blob/master/portfolio-cv-02.png "2")
 ![alt text](https://github.com/7d00med/portfolio/blob/master/portfolio-cv-03.png "3")
 ![alt text](https://github.com/7d00med/portfolio/blob/master/portfolio-cv-04.png "4")
