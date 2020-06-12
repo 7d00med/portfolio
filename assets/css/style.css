@@ -7,7 +7,7 @@ body {
     background-color: #FFFFF;
 }
 .imgDIV{
-    background-image: url("https://7d00med.github.io/portfolio/img/portfolio-cv-01.png");
+    width: 100%;
     background-size: auto;
     background-repeat: no-repeat;
     display: block;
