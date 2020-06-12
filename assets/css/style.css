@@ -11,4 +11,5 @@ body {
     height: auto;
     background-repeat: no-repeat;
     background-size: auto;
+    display: block;
 }
